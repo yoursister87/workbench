@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ganji_dev/!svn/ver/431135/fang/platform/models/service/data/sourcelist
+END
+HouseList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ganji_dev/!svn/ver/431135/fang/platform/models/service/data/sourcelist/HouseList.class.php
+END
+PremierList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ganji_dev/!svn/ver/425884/fang/platform/models/service/data/sourcelist/PremierList.class.php
+END
+HouseSellList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ganji_dev/!svn/ver/396760/fang/platform/models/service/data/sourcelist/HouseSellList.class.php
+END
+HouseFrom58List.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/429796/fang/platform/models/service/data/sourcelist/HouseFrom58List.class.php
+END
+HaoZuList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ganji_dev/!svn/ver/429795/fang/platform/models/service/data/sourcelist/HaoZuList.class.php
+END
+RealHouseList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ganji_dev/!svn/ver/397179/fang/platform/models/service/data/sourcelist/RealHouseList.class.php
+END

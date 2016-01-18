@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu
+END
+XiaoquRelationship.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquRelationship.class.php
+END
+XiaoquHuxing.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquHuxing.class.php
+END
+XiaoquPrice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquPrice.class.php
+END
+XiaoquXiaoqu.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/xiaoqu/XiaoquXiaoqu.class.php
+END
+XiaoquStat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquStat.class.php
+END
+XiaoquNews.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquNews.class.php
+END
+XiaoquAutoIncrement.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquAutoIncrement.class.php
+END
+XiaoquNewsImage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquNewsImage.class.php
+END
+Xinloupan.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/Xinloupan.class.php
+END
+XiaoquDealHistory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/xiaoqu/XiaoquDealHistory.class.php
+END
+XiaoquSuggestion.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/xiaoqu/XiaoquSuggestion.class.php
+END
+XiaoquLock.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquLock.class.php
+END
+XiaoquPeitaoV2.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/xiaoqu/XiaoquPeitaoV2.class.php
+END
+XiaoquPhoto.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/XiaoquPhoto.class.php
+END
+XiaoquPriceTrendData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/xiaoqu/XiaoquPriceTrendData.class.php
+END
+HouseSellAvgPrice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/xiaoqu/HouseSellAvgPrice.class.php
+END

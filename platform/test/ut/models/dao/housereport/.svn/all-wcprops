@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/dao/housereport
+END
+HouseCompanyOrgReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/dao/housereport/HouseCompanyOrgReportTest.php
+END
+HouseOrgReportV2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/dao/housereport/HouseOrgReportV2Test.php
+END
+HouseAccountReportV2Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/dao/housereport/HouseAccountReportV2Test.php
+END
+HouseAccountGeneralstatReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/dao/housereport/HouseAccountGeneralstatReportTest.php
+END

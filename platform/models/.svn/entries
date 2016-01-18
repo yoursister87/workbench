@@ -1,0 +1,40 @@
+8
+
+dir
+433392
+http://svn.ganji.com:8888/svn/ganji_dev/fang/platform/models
+http://svn.ganji.com:8888/svn/ganji_dev
+
+
+
+2016-01-08T08:08:22.365445Z
+433298
+zhangrong3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47aa9157-9bc2-47f7-8773-cc536fb7001f
+
+service
+dir
+
+xapian
+dir
+
+dao
+dir
+
+database
+dir
+

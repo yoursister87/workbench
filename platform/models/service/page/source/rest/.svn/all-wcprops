@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest
+END
+DeleteImage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/DeleteImage.class.php
+END
+ChangeFangAudit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/ChangeFangAudit.class.php
+END
+QueryImage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/QueryImage.class.php
+END
+QueryFangNew.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/QueryFangNew.class.php
+END
+BatchQueryFangNew.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/BatchQueryFangNew.class.php
+END
+ChangeFang.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/ChangeFang.class.php
+END
+QueryFang.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/QueryFang.class.php
+END
+BatchQueryFang.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/BatchQueryFang.class.php
+END
+AddFang.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/source/rest/AddFang.class.php
+END

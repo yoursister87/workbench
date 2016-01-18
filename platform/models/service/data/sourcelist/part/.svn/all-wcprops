@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ganji_dev/!svn/ver/389864/fang/platform/models/service/data/sourcelist/part
+END
+Gongyu.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ganji_dev/!svn/ver/389864/fang/platform/models/service/data/sourcelist/part/Gongyu.class.php
+END
+RentPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/data/sourcelist/part/RentPremier.class.php
+END
+LoupanPremierAndCommon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/data/sourcelist/part/LoupanPremierAndCommon.class.php
+END
+CommercialPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/service/data/sourcelist/part/CommercialPremier.class.php
+END
+SellPremierAndCommon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/data/sourcelist/part/SellPremierAndCommon.class.php
+END
+RentCommon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/data/sourcelist/part/RentCommon.class.php
+END
+CommercialCommon.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/service/data/sourcelist/part/CommercialCommon.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/redis/weixin
+END
+QRCode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/redis/weixin/QRCode.class.php
+END
+SubscribeRequestQueue.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/redis/weixin/SubscribeRequestQueue.class.php
+END
+PermanentQRcodeCount.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/redis/weixin/PermanentQRcodeCount.class.php
+END

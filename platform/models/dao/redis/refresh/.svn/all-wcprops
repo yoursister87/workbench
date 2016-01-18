@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ganji_dev/!svn/ver/395293/fang/platform/models/dao/redis/refresh
+END
+UserRefreshBizScope.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/redis/refresh/UserRefreshBizScope.class.php
+END
+UserRefreshType.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ganji_dev/!svn/ver/395293/fang/platform/models/dao/redis/refresh/UserRefreshType.class.php
+END
+HouseRefreshTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/redis/refresh/HouseRefreshTime.class.php
+END

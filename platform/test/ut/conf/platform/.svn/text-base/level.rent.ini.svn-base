@@ -1,0 +1,324 @@
+;tdk 级别配置
+[Type]
+0 = "title"
+1 = "keywords"
+2 = "description"
+
+
+; fang1 配置
+[RentDefaultLevel]
+0 = "RentDefaultLevel_0"
+1 = "RentDefaultLevel_1"
+2 = "RentDefaultLevel_2"
+3 = "RentDefaultLevel_3"
+4 = "RentDefaultLevel_4"
+5 = "RentDefaultLevel_5"
+
+[RentDefaultLevel_0]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "city"
+excludeValue = "agent#3"
+
+[RentDefaultLevel_1]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "district"
+excludeValue = "agent#3"
+
+[RentDefaultLevel_2]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "street"
+exclude = "district"
+excludeValue = "agent#3"
+
+[RentDefaultLevel_3]
+is_array = 0
+is_switch = 1
+is_params = 1
+name = "agent"
+values[] = "1"
+values[] = "2"
+values[] = "3"
+values[] = "4"
+
+
+[RentDefaultLevel_4]
+is_array = 1
+is_switch = 0
+is_params = 1
+values[] = "price"
+values[] = "huxing_shi"
+values[] = "tab_system"
+values[] = "mingqi"
+values[] = "fang_xing"
+values[] = "zhuangxiu"
+values[] = "ceng"
+values[] = "chaoxiang"
+values[] = "zufang"
+values[] = "keyword"
+values[] = "image_count"
+excludeValue = "agent#3"
+
+[RentDefault_city]
+title = "{image_count}【{city}{district}{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{agent2Title}{keyword}房屋出租信息-{city}租房网{agent4Title}】-{city}赶集网"
+keywords = "{city}租房,{city}房屋出租"
+description = "赶集网{city}租房频道是最专业的{city}租房网，为您提供最新{postCount}条{city}房屋出租信息，查找{city}租房信息，{city}个人房屋出租房源，请到赶集{city}租房网。"
+title_withoutFilter = "【{city}租房子|{city}租房网|{city}房屋出租信息】-{city}赶集网"
+keywords_withoutFilter = "租房,{city}租房,{city}租房网,{city}房屋出租,{city}租房信息,{city}赶集网"
+
+[RentDefault_district]
+title = "{image_count}【{city}{district|street}{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{agent2Title}房屋出租信息|{city}{district|street}租房{agent4Title}】-{city}赶集网"
+keywords = "{district|street}租房,{city}{district|street}房屋出租"
+description = "赶集网{district|street}出租频道是最专业的{city}{district|street}租房网，为您提供最新【{postCount}条】{district|street}房屋出租信息，查找{district|street}租房信息，{district|street}个人房屋出租房源，请到赶集{city}{district|street}租房网。"
+title_withoutFilter = "【{city}{district}租房子|{district}租房信息网】-{city}赶集网"
+
+[RentDefault_huxing_shi]
+title_withoutFilter = "【{huxing_shi}出租|{city}{huxing_shi}房屋出租信息】-  {city}赶集网"
+keywords = "{district|street}{huxing_shi}出租,{city}{district|street}{huxing_shi}房屋出租"
+description = "赶集网{city}{huxing_shi}出租频道是最专业的{city}租房网，为您提供最新【{postCount}条】{city}{huxing_shi}房屋出租信息，查找{city}租房信息，{city}个人房屋出租房源，请到赶集{city}租房网。"
+
+[RentDefault_agent_1]
+title_withoutFilter = "【{city}租房网-{city}房屋出租|{city}{agent1Title}房屋出租信息】-{city}赶集网"
+keywords_withoutFilter = "{city}个人房源,{city}房东房源,{city}个人房源出租"
+description_withoutFilter = "个人房源赶集网{city}频道，免费提供最新【{postCount}条{city}房东房源直租】信息，网站包含精装修、家电齐全、押一付一、单身公寓、邻近地铁、市政供暖等各类个人房源出租信息，查找个人房源出租信息，请到{city}赶集个人房源网。"
+keywords = "{district|street}个人房源,{district|street}房东房源,{district|street}个人房源出租"
+description = "个人房源赶集网{district|street}频道，免费提供最新【{postCount}条{city}{district|street}房东房源直租】信息，网站包含精装修、家电齐全、押一付一、单身公寓、邻近地铁、市政供暖等各类个人房源出租信息，查找个人房源出租信息，上{city}赶集{district|street}个人房源网。"
+title_withoutFilter_city#bj = "【100%个人房源网|北京房东房源直租】北京个人房源出租信息 - 北京赶集网"
+keywords_withoutFilter_city#bj = "北京个人房源,北京房东房源,北京个人房源出租"
+description_withoutFilter_city#bj = "个人房源赶集网北京频道，免费提供最新【{postCount}条北京房东房源直租】信息，网站包含精装修、家电齐全、押一付一、单身公寓、邻近地铁、市政供暖等各类个人房源出租信息，查找个人房源出租信息，请到北京赶集个人房源网。"
+title_city#bj = "{image_count}【{city}{district|street}{price}{mingqi}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}房源网_{district|street}房东房源直租信息】-北京赶集网"
+keywords_city#bj = "{district|street}个人房源,{district|street}房东房源,{district|street}个人房源出租"
+description_city#bj = "个人房源赶集网{district|street}频道，免费提供最新【{postCount}条{city}{district|street}房东房源直租】信息，网站包含精装修、家电齐全、押一付一、单身公寓、邻近地铁、市政供暖等各类个人房源出租信息，查找个人房源出租信息，上{city}赶集{district|street}个人房源网。"
+
+[RentDefault_agent_2]
+title = "【{city}{district|street}房产中介租房信息-{city}{district|street}房产中介房屋出租】-赶集网 {city}"
+
+[RentDefault_agent_4]
+title_withoutFilter = "【{city}租房子|{city}租房信息网{agent4Title}】-{city}赶集网"
+
+[RentDefault_keyword]
+title_withoutFilter = "【{keyword}信息】-{city}赶集网"
+
+;;fang1 地铁配置
+[RentSubwayLevel]
+0 = "RentSubwayLevel_0"
+1 = "RentSubwayLevel_1"
+2 = "RentSubwayLevel_2"
+3 = "RentSubwayLevel_3"
+4 = "RentSubwayLevel_4"
+5 = "RentSubwayLevel_5"
+
+
+[RentSubwayLevel_0]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "city"
+excludeValue = "agent#3"
+
+[RentSubwayLevel_1]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "ditie"
+excludeValue = "agent#3"
+
+[RentSubwayLevel_2]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "subway_line"
+excludeValue = "agent#3"
+
+[RentSubwayLevel_3]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "station"
+exclude = "subway_line"
+excludeValue = "agent#3"
+
+[RentSubwayLevel_4]
+is_array = 0
+is_switch = 1
+is_params = 1
+name = "agent"
+values[] = "1"
+values[] = "2"
+values[] = "4"
+values[] = "5"
+
+[RentSubwayLevel_5]
+is_array = 1
+is_switch = 0
+is_params = 1
+values[] = "walk"
+values[] = "price"
+values[] = "huxing_shi"
+values[] = "tab_system"
+values[] = "zufang"
+values[] = "mingqi"
+values[] = "fang_xing"
+values[] = "zhuangxiu"
+values[] = "ceng"
+values[] = "chaoxiang"
+values[] = "image_count"
+values[] = "keyword"
+excludeValue = "agent#3"
+
+[RentSubway_ditie]
+title = "{image_count}【{city}地铁{subwayLine}沿线{walk}{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{keyword}租房信息{agent4Title}】-{city}赶集网"
+keywords = "地铁附近租房,地铁附近出租信息"
+description = "赶集网{city}租房网，为您提供最新{postCount}条{city}地铁附近房屋出租信息，房源更新快、信息全。查找地铁附近个人房屋出租房源、经纪人房源、地铁附近单间、合租，请到赶集{city}租房网。"
+title_withoutFilter = "【{city}地铁附近租房|{city}地铁附近房屋出租信息】-{city}赶集网"
+
+[RentSubway_subway_line]
+keywords = "地铁{subwayLine}租房,地铁{subwayLine}出租信息"
+description = "赶集网{city}租房网，为您提供最新{postCount}条{city}地铁{subwayLine}沿线房屋出租信息，房源更新快、信息全。查找地铁{subwayLine}个人房屋出租房源、经纪人房源、地铁附近单间、合租，请到赶集{city}租房网。"
+
+[RentSubway_station]
+title = "{image_count}【{city}{subwayStation}附近{walk}{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{agent2Title}租房信息{agent4Title}】-{city}赶集网"
+keywords = "{subwayStation}附近租房,{subwayStation}附近出租信息"
+description = "赶集网{city}租房网，为您提供最新{postCount}条{city}{subwayStation}附近房屋出租信息，房源更新快、信息全。查找{subwayStation}附近个人房屋出租房源、经纪人房源、{subwayStation}附近单间、合租，请到赶集{city}租房网。"
+
+
+;;房1公交配置
+[RentBusLevel]
+0 = "RentBusLevel_0"
+1 = "RentBusLevel_1"
+2 = "RentBusLevel_2"
+3 = "RentBusLevel_3"
+4 = "RentBusLevel_4"
+5 = "RentBusLevel_5"
+
+[RentBusLevel_0]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "city"
+
+[RentBusLevel_1]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "bus" 
+excludeValue = "agent#3"
+
+[RentBusLevel_2]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "bus_line"
+excludeValue = "agent#3"
+
+[RentBusLevel_3]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "station"
+exclude = "bus_line"
+excludeValue = "agent#3"
+
+[RentBusLevel_4]
+is_array = 0
+is_switch = 1
+is_params = 1
+name = "agent"
+values[] = "1"
+values[] = "2"
+values[] = "3"
+values[] = "4"
+values[] = "5"
+
+[RentBusLevel_5]
+is_array = 1
+is_switch = 0
+is_params = 1
+values[] = "price"
+values[] = "huxing_shi"
+values[] = "tab_system"
+values[] = "zufang"
+values[] = "mingqi"
+values[] = "fang_xing"
+values[] = "zhuangxiu"
+values[] = "ceng"
+values[] = "chaoxiang"
+values[] = "keyword"
+values[] = "image_count"
+excludeValue = "agent#3"
+
+[RentBus_bus]
+title = "{image_count}【{city}公交{busStation|busLine}沿线租房|公交{busStation|busLine}附近{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{agent4Title}{keyword}房屋出租信息】- {city}赶集网"
+keywords = "{busStation|busLine}租房,{busStation|busLine}租房出租信息"
+description = "赶集网{city}租房网，为您提供最新{postCount}条{city}公交{busLine}附近房屋出租信息，房源更新快、信息全。查找公交{busStation}附近个人房屋出租房源、经纪人房源、{busStation}附近单间、合租，请到赶集{city}租房网"
+
+;;fang1大学配置
+[RentCollegeLevel]
+0 = "RentCollegeLevel_0"
+1 = "RentCollegeLevel_1"
+2 = "RentCollegeLevel_2"
+3 = "RentCollegeLevel_3"
+4 = "RentCollegeLevel_4"
+
+[RentCollegeLevel_0]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "city"
+
+[RentCollegeLevel_1]
+is_array = 0
+is_switch = 0
+is_params = 0
+name = "daxue"
+excludeValue = "agent#3"
+
+[RentCollegeLevel_2]
+is_array = 0
+is_switch = 0
+is_params = 1
+name = "college"
+excludeValue = "agent#3"
+
+[RentCollegeLevel_3]
+is_array = 0
+s_switch = 1
+is_params = 1
+name = "agent"
+values[] = "1"
+values[] = "2"
+values[] = "4"
+values[] = "5"
+
+[RentCollegeLevel_4]
+is_array = 1
+is_switch = 0
+is_params = 1
+values[] = "walk"
+values[] = "price"
+values[] = "huxing_shi"
+values[] = "tab_system"
+values[] = "zufang"
+values[] = "mingqi"
+values[] = "fang_xing"
+values[] = "zhuangxiu"
+values[] = "ceng"
+values[] = "chaoxiang"
+values[] = "keyword"
+values[] = "image_count"
+excludeValue = "agent#3"
+
+[RentCollege_daxue]
+title = "{image_count}【大学附近{walk}{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{agent2Title}{keyword}租房信息{agent4Title}】-{city}赶集网"
+keywords = "{city}租房,{city}房屋出租"
+description = " 赶集网{city}租房频道是最专业的{city}租房网，为您提供大量的{city}房屋出租信息，查找{city}租房信息，个人房屋出租房源，请到赶集{city}租房网"
+title_withoutFilter = "【大学附近租房_大学附近房屋出租信息】-{city}赶集网"
+keywords_withoutFilter = "大学附近租房,大学周边房屋出租,大学附近租房信息"
+
+[RentCollege_college]
+title = "{image_count}【{college}附近{walk}{price}{mingqi}{tab_system}{zufang}{huxing_shi}{fang_xing}{zhuangxiu}{ceng}{chaoxiang}{agent1Title}{agent2Title}租房信息{agent4Title}】-{city}赶集网"

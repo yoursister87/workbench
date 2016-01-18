@@ -1,0 +1,52 @@
+8
+
+dir
+433392
+http://svn.ganji.com:8888/svn/ganji_dev/fang/platform/models/service/page/apartment
+http://svn.ganji.com:8888/svn/ganji_dev
+
+
+
+2015-06-04T11:10:32.507118Z
+388388
+fuyongjie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47aa9157-9bc2-47f7-8773-cc536fb7001f
+
+Apartment.class.php
+file
+
+
+
+
+2015-06-05T09:53:58.000000Z
+54236114e89e8bcb128657db9657e4fd
+2015-06-04T11:10:32.507118Z
+388388
+fuyongjie
+
+Modelroom.class.php
+file
+
+
+
+
+2015-06-05T09:53:58.000000Z
+930e8650d50dd8f3e41cc8cd29e7f189
+2015-06-04T11:10:32.507118Z
+388388
+fuyongjie
+

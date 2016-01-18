@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse
+END
+GetShelvedRealHouseListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetShelvedRealHouseListTest.php
+END
+AddOrUpdateCommentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/AddOrUpdateCommentTest.php
+END
+GetNoCommentHouseListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetNoCommentHouseListTest.php
+END
+GetCommentHouseInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetCommentHouseInfoTest.php
+END
+GetCommentHouseListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetCommentHouseListTest.php
+END
+GetCompanyListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetCompanyListTest.php
+END
+GetPrivilegeInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetPrivilegeInfoTest.php
+END
+GetXiaoquListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetXiaoquListTest.php
+END
+CheckSpamKeywordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/CheckSpamKeywordTest.php
+END
+ReportCountTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/ReportCountTest.php
+END
+GetDelCommentHouseListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/realhouse/GetDelCommentHouseListTest.php
+END

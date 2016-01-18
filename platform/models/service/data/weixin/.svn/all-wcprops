@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ganji_dev/!svn/ver/400303/fang/platform/models/service/data/weixin
+END
+WeixinSubscribe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ganji_dev/!svn/ver/391265/fang/platform/models/service/data/weixin/WeixinSubscribe.class.php
+END
+WeixinXiaoquCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ganji_dev/!svn/ver/390510/fang/platform/models/service/data/weixin/WeixinXiaoquCollection.class.php
+END
+WeixinCollectionNewsInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/390289/fang/platform/models/service/data/weixin/WeixinCollectionNewsInfo.class.php
+END
+WeixinCollectionInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/390488/fang/platform/models/service/data/weixin/WeixinCollectionInfo.class.php
+END
+WeixinApi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ganji_dev/!svn/ver/400303/fang/platform/models/service/data/weixin/WeixinApi.class.php
+END
+WeixinUserActive.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/data/weixin/WeixinUserActive.class.php
+END
+WeixinUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/data/weixin/WeixinUser.class.php
+END
+WeixinCollectionFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ganji_dev/!svn/ver/390443/fang/platform/models/service/data/weixin/WeixinCollectionFormatInfo.class.php
+END

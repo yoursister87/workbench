@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ganji_dev/!svn/ver/391154/fang/platform/models/dao/fangproject
+END
+ApartmentPhoto.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/fangproject/ApartmentPhoto.class.php
+END
+LandmarkInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ganji_dev/!svn/ver/391154/fang/platform/models/dao/fangproject/LandmarkInfo.class.php
+END
+LandmarkCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ganji_dev/!svn/ver/391154/fang/platform/models/dao/fangproject/LandmarkCategory.class.php
+END
+ApartmentAdLocation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/fangproject/ApartmentAdLocation.class.php
+END
+Apartment.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/fangproject/Apartment.class.php
+END
+ApartmentPeitao.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/fangproject/ApartmentPeitao.class.php
+END

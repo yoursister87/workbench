@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/util
+END
+HouseReportUtilTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/util/HouseReportUtilTest.php
+END
+BalanceOperationUtilTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/util/BalanceOperationUtilTest.php
+END
+HouseExcelTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/util/HouseExcelTest.php
+END
+HouseXapianTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/util/HouseXapianTest.php
+END
+XiaoquPriceTrendUtilTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/util/XiaoquPriceTrendUtilTest.php
+END

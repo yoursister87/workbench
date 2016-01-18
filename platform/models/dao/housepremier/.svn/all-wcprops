@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ganji_dev/!svn/ver/405981/fang/platform/models/dao/housepremier
+END
+HouseSourceOperation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/HouseSourceOperation.class.php
+END
+HouseSourceStoretradePremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceStoretradePremier.class.php
+END
+HouseSourcePlantPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourcePlantPremier.class.php
+END
+HouseModifyRecord.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/HouseModifyRecord.class.php
+END
+HouseSourceOfficerentPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceOfficerentPremier.class.php
+END
+HouseSourceStorerentPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceStorerentPremier.class.php
+END
+RepeatRefresh.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/RepeatRefresh.class.php
+END
+HouseSourceList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ganji_dev/!svn/ver/396718/fang/platform/models/dao/housepremier/HouseSourceList.class.php
+END
+HouseSourceShortrentPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceShortrentPremier.class.php
+END
+HouseSellRecord.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/HouseSellRecord.class.php
+END
+HouseImageOuter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ganji_dev/!svn/ver/398547/fang/platform/models/dao/housepremier/HouseImageOuter.class.php
+END
+Sticky.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/Sticky.class.php
+END
+HouseSourceLoupanPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceLoupanPremier.class.php
+END
+HouseSourceSellPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/HouseSourceSellPremier.class.php
+END
+HouseSourceDescription.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceDescription.class.php
+END
+HouseRealComment.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ganji_dev/!svn/ver/398110/fang/platform/models/dao/housepremier/HouseRealComment.class.php
+END
+HouseSourceSharePremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/405981/fang/platform/models/dao/housepremier/HouseSourceSharePremier.class.php
+END
+HouseCommentPrivilege.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/HouseCommentPrivilege.class.php
+END
+UserRefreshNum.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/UserRefreshNum.class.php
+END
+UserPostList.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/housepremier/UserPostList.class.php
+END
+HouseSourceRentPremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceRentPremier.class.php
+END
+HouseSourceOfficetradePremier.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/housepremier/HouseSourceOfficetradePremier.class.php
+END
+AccountBusinessInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ganji_dev/!svn/ver/397559/fang/platform/models/dao/housepremier/AccountBusinessInfo.class.php
+END
+HouseSpecial.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ganji_dev/!svn/ver/396312/fang/platform/models/dao/housepremier/HouseSpecial.class.php
+END

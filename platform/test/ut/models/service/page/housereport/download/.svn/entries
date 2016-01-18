@@ -1,0 +1,55 @@
+8
+
+dir
+433392
+http://svn.ganji.com:8888/svn/ganji_dev/fang/platform/test/ut/models/service/page/housereport/download
+http://svn.ganji.com:8888/svn/ganji_dev
+
+
+
+2015-05-29T03:00:18.842119Z
+386332
+fuyongjie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47aa9157-9bc2-47f7-8773-cc536fb7001f
+
+platform
+dir
+
+OrgDownloadTest.php
+file
+
+
+
+
+2015-06-05T09:53:57.000000Z
+ff420a4469916c4617d17f0c495fd5a8
+2015-05-29T03:00:18.842119Z
+386332
+fuyongjie
+
+OutletDownloadTest.php
+file
+
+
+
+
+2015-06-05T09:53:57.000000Z
+48413b3cbadbe5132c7698dcf877c342
+2015-05-29T03:00:18.842119Z
+386332
+fuyongjie
+

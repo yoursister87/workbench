@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ganji_dev/!svn/ver/405910/fang/platform/test/ut/models/service/page/housereport/org
+END
+RootNodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/RootNodeTest.php
+END
+CheckAccountTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/CheckAccountTest.php
+END
+GetAgentListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/GetAgentListTest.php
+END
+InsertLoginRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/InsertLoginRecordTest.php
+END
+VerifyCodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/VerifyCodeTest.php
+END
+AddOrUpdateOrgTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/AddOrUpdateOrgTest.php
+END
+AgentToBizTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/AgentToBizTest.php
+END
+GetChildsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/GetChildsTest.php
+END
+CheckAgentPwdTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/CheckAgentPwdTest.php
+END
+ShowLoginRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/ShowLoginRecordTest.php
+END
+SendVerifyCodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/SendVerifyCodeTest.php
+END
+SendCodeByPhoneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/SendCodeByPhoneTest.php
+END
+ResetAccountPwdTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/ResetAccountPwdTest.php
+END
+GetAgentInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/405910/fang/platform/test/ut/models/service/page/housereport/org/GetAgentInfoTest.php
+END
+ModifyPasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/ModifyPasswordTest.php
+END
+DelOrgTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/DelOrgTest.php
+END
+OutLetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/OutLetTest.php
+END
+AddOrgByCustomerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/AddOrgByCustomerTest.php
+END
+SearchOrgTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/SearchOrgTest.php
+END
+CheckTitleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/CheckTitleTest.php
+END
+ModifyPhoneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/ModifyPhoneTest.php
+END
+AgentToCustomerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/AgentToCustomerTest.php
+END
+GetLoginInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/GetLoginInfoTest.php
+END
+CheckEmailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/CheckEmailTest.php
+END
+SetAgentInfoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/SetAgentInfoTest.php
+END
+StoreToAreaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/page/housereport/org/StoreToAreaTest.php
+END

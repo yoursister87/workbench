@@ -1,0 +1,23 @@
+;对整个频道下，框架内各层方法是否使用cache进行配置
+;cache的开关优先顺序，layerproxy.cache.global > appName.cacheproxy.classname.method
+;文件目录housing/conf/[appName]/cacheproxy.ini
+[layers]
+Action="false";
+Service_Page="false";
+Service_Data="Gj_cache_DataServiceCacheProxy";
+Dao="false";
+
+;[classname]
+;methodName[timeout]=5
+;methodName[client]= "Memcache"
+;
+[Gj_Test_Ut_Layerproxy_Layer_Models_Service_Data_TestData]
+getData.client = "Memcache"
+getData.timeout = 5
+
+[Service_Data_CompanyShop_CompanyHouseCount]
+getCompanyHouseCountByCompanyId.client = "Memcache"
+
+[Dao_Weixin_WeixinSubscribe]
+getSubscribeConditionByOpenid.client = "Memcache"
+getSubscribeConditionByOpenid.timeout = 60

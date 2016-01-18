@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ganji_dev/!svn/ver/408397/fang/platform/models/service/page/housereport/report
+END
+OrgAjax.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/housereport/report/OrgAjax.class.php
+END
+OutletRealDataTimeAjax.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ganji_dev/!svn/ver/408397/fang/platform/models/service/page/housereport/report/OutletRealDataTimeAjax.class.php
+END
+AccountAjax.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/housereport/report/AccountAjax.class.php
+END
+OutletAjax.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ganji_dev/!svn/ver/408395/fang/platform/models/service/page/housereport/report/OutletAjax.class.php
+END
+Default.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/housereport/report/Default.class.php
+END

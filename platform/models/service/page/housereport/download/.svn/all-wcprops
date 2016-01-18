@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ganji_dev/!svn/ver/408660/fang/platform/models/service/page/housereport/download
+END
+RealTimeDownload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/service/page/housereport/download/RealTimeDownload.class.php
+END
+OrgDownload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/service/page/housereport/download/OrgDownload.class.php
+END
+OutletDownload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ganji_dev/!svn/ver/408660/fang/platform/models/service/page/housereport/download/OutletDownload.class.php
+END

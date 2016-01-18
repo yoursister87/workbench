@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/gcrm
+END
+Company.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/gcrm/Company.class.php
+END
+CustomerAccountLoginEvent.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/gcrm/CustomerAccountLoginEvent.class.php
+END
+HouseManagerAccount.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/gcrm/HouseManagerAccount.class.php
+END
+CompanyStoresAddress.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/gcrm/CompanyStoresAddress.class.php
+END
+CustomerAccount.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/gcrm/CustomerAccount.class.php
+END
+Customer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/gcrm/Customer.class.php
+END
+TradeCenterInterface.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ganji_dev/!svn/ver/386332/fang/platform/models/dao/gcrm/TradeCenterInterface.class.php
+END
+ChannelCustomerExtend.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ganji_dev/!svn/ver/386742/fang/platform/models/dao/gcrm/ChannelCustomerExtend.class.php
+END

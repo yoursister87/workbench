@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ganji_dev/!svn/ver/390093/fang/platform/test/ut/models/service/data/housereport
+END
+ReportServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/ReportServiceTest.php
+END
+GroupOrgDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/GroupOrgDataTest.php
+END
+GroupOutletSumDownloadDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ganji_dev/!svn/ver/386742/fang/platform/test/ut/models/service/data/housereport/GroupOutletSumDownloadDataTest.php
+END
+HouseSourceReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/HouseSourceReportTest.php
+END
+GroupAccountDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/GroupAccountDataTest.php
+END
+CheckDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/CheckDataTest.php
+END
+GroupOutletAvgDownloadDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ganji_dev/!svn/ver/386742/fang/platform/test/ut/models/service/data/housereport/GroupOutletAvgDownloadDataTest.php
+END
+GroupAccountHoursDownloadDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/GroupAccountHoursDownloadDataTest.php
+END
+GroupOutletTodayDownloadDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ganji_dev/!svn/ver/386742/fang/platform/test/ut/models/service/data/housereport/GroupOutletTodayDownloadDataTest.php
+END
+HouseAccountHoursTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/HouseAccountHoursTest.php
+END
+GroupOutletDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ganji_dev/!svn/ver/390093/fang/platform/test/ut/models/service/data/housereport/GroupOutletDataTest.php
+END
+OrgReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/OrgReportTest.php
+END
+GroupDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/GroupDataTest.php
+END
+GroupOrgDownloadDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/GroupOrgDownloadDataTest.php
+END
+AccountReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ganji_dev/!svn/ver/386332/fang/platform/test/ut/models/service/data/housereport/AccountReportTest.php
+END
