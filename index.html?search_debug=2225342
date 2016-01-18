@@ -368,7 +368,7 @@ var SPEED_RENDER_BEGIN = new Date().getTime();
         <div  class="GcnADId3 cl"  id="GcnADId43" style="display:none;"  data-center="false"  ></div>        <div  class="GcnADId3"  id="GcnADId34" style="display:none;"  data-center="false"  ></div>        <!-- 百度图文广告end -->
         <div id="ad_container_zanzhushang"></div>
      <div class="adv_div">
-     <!-- 分类帮助 -->
+     <!-- 分类帮助a -->
       <div id="ad_container_motiandalou" style="display:none;"></div>    </div>
 
       <!-- 图片定向推广 BEGIN-->
