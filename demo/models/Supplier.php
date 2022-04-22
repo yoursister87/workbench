@@ -3,15 +3,6 @@
 namespace app\models;
 
 use Yii;
-
-/**
- * This is the model class for table "supplier".
- *
- * @property int $id
- * @property string $name
- * @property string|null $code
- * @property string $t_status
- */
 class Supplier extends \yii\db\ActiveRecord
 {
     /**
@@ -22,9 +13,6 @@ class Supplier extends \yii\db\ActiveRecord
         return 'supplier';
     }
 
-    /**
-     * {@inheritdoc}
-     */
     public function rules()
     {
         return [
@@ -35,9 +23,6 @@ class Supplier extends \yii\db\ActiveRecord
         ];
     }
 
-    /**
-     * {@inheritdoc}
-     */
     public function attributeLabels()
     {
         return [
@@ -48,12 +33,5 @@ class Supplier extends \yii\db\ActiveRecord
         ];
     }
 
-
-
-    public static function statusSelectOptions(){
-	    $items = [];
-	    foreach((array)Supplier::find()->select(['t_status'])->groupBy(['t_status'])->column() as $v) $items[$v] = $v;
-	    return $items;
-    }
 
 }

@@ -3,8 +3,6 @@
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 
-/* @var $this yii\web\View */
-/* @var $model app\models\Supplier */
 
 $this->title = '选择要导出的字段';
 $this->params['breadcrumbs'][] = ['label' => 'Suppliers', 'url' => ['index']];
@@ -18,13 +16,13 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <?php $form = ActiveForm::begin(); ?>
 
-    <?=Html::checkbox('f[id]',true,['class'=>'', "checked"=>"checked", "onclick"=>"return false;" ,"label"=>"ID"]);?>
+    <?=Html::checkbox('fields[id]',true,['class'=>'', "checked"=>"checked", "onclick"=>"return false;" ,"label"=>"ID"]);?>
     <br/>
-    <?=Html::checkbox('f[name]',true,['class'=>'', "checked"=>"checked","label"=>"name"]);?>
+    <?=Html::checkbox('fields[name]',true,['class'=>'', "checked"=>"checked","label"=>"name"]);?>
     <br/>
-    <?=Html::checkbox('f[code]',true,['class'=>'', "checked"=>"checked","label"=>"code"]);?>
+    <?=Html::checkbox('fields[code]',true,['class'=>'', "checked"=>"checked","label"=>"code"]);?>
     <br/>
-    <?=Html::checkbox('f[t_status]',true,['class'=>'', "checked"=>"checked","label"=>"t_status"]);?>
+    <?=Html::checkbox('fields[t_status]',true,['class'=>'', "checked"=>"checked","label"=>"t_status"]);?>
     <br/>
 
 

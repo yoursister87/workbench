@@ -48,7 +48,6 @@ $targetUrl =  Url::toRoute($route);
                 'code',
 	    [
 	        'attribute' => 't_status',
-	        'filter' => Supplier::statusSelectOptions(),
 	    ],
 
         ],
