@@ -7,6 +7,7 @@ use yii\data\ActiveDataProvider;
 use app\models\Supplier;
 
 
+
 class SupplierSearch extends Supplier
 {
     public function rules()
